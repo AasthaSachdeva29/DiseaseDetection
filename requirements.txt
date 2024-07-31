@@ -1,0 +1,3 @@
+radio
+google-generativeai
+python-dotenv
