@@ -6,7 +6,7 @@ import os
 
 load_dotenv()
 
-genai.configure(api_key=os.getenv("AIzaSyBnr7YPdpSjFW_2EVQGvV_0qrYPYMddBi0"))
+genai.configure(api_key=os.getenv("Your Api Key"))
 
 generation_config = {
     "temperature": 0.5,
